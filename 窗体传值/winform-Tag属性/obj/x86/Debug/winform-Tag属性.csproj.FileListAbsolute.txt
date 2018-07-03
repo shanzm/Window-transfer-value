@@ -1,0 +1,8 @@
+d:\documents\visual studio 2010\Projects\窗体传值\winform-Tag属性\obj\x86\Debug\winform_Tag属性.Form1.resources
+d:\documents\visual studio 2010\Projects\窗体传值\winform-Tag属性\obj\x86\Debug\winform_Tag属性.Form2.resources
+d:\documents\visual studio 2010\Projects\窗体传值\winform-Tag属性\obj\x86\Debug\winform_Tag属性.Properties.Resources.resources
+d:\documents\visual studio 2010\Projects\窗体传值\winform-Tag属性\obj\x86\Debug\winform-Tag属性.csproj.GenerateResource.Cache
+d:\documents\visual studio 2010\Projects\窗体传值\winform-Tag属性\bin\Debug\winform-Tag属性.exe
+d:\documents\visual studio 2010\Projects\窗体传值\winform-Tag属性\bin\Debug\winform-Tag属性.pdb
+d:\documents\visual studio 2010\Projects\窗体传值\winform-Tag属性\obj\x86\Debug\winform-Tag属性.exe
+d:\documents\visual studio 2010\Projects\窗体传值\winform-Tag属性\obj\x86\Debug\winform-Tag属性.pdb

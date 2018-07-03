@@ -1,0 +1,8 @@
+d:\documents\visual studio 2010\Projects\窗体传值\委托实现窗体传值\obj\x86\Debug\委托实现窗体传值.Form1.resources
+d:\documents\visual studio 2010\Projects\窗体传值\委托实现窗体传值\obj\x86\Debug\委托实现窗体传值.Form2.resources
+d:\documents\visual studio 2010\Projects\窗体传值\委托实现窗体传值\obj\x86\Debug\委托实现窗体传值.Properties.Resources.resources
+d:\documents\visual studio 2010\Projects\窗体传值\委托实现窗体传值\obj\x86\Debug\委托实现窗体传值.csproj.GenerateResource.Cache
+d:\documents\visual studio 2010\Projects\窗体传值\委托实现窗体传值\bin\Debug\委托实现窗体传值.exe
+d:\documents\visual studio 2010\Projects\窗体传值\委托实现窗体传值\bin\Debug\委托实现窗体传值.pdb
+d:\documents\visual studio 2010\Projects\窗体传值\委托实现窗体传值\obj\x86\Debug\委托实现窗体传值.exe
+d:\documents\visual studio 2010\Projects\窗体传值\委托实现窗体传值\obj\x86\Debug\委托实现窗体传值.pdb

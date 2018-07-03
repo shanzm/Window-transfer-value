@@ -1,0 +1,8 @@
+d:\documents\visual studio 2010\Projects\窗体传值\根据窗体2的操作决定窗体1 的操作\bin\Debug\根据窗体2的操作决定窗体1 的操作.exe
+d:\documents\visual studio 2010\Projects\窗体传值\根据窗体2的操作决定窗体1 的操作\bin\Debug\根据窗体2的操作决定窗体1 的操作.pdb
+d:\documents\visual studio 2010\Projects\窗体传值\根据窗体2的操作决定窗体1 的操作\obj\x86\Debug\根据窗体2的操作决定窗体1_的操作.Form1.resources
+d:\documents\visual studio 2010\Projects\窗体传值\根据窗体2的操作决定窗体1 的操作\obj\x86\Debug\根据窗体2的操作决定窗体1_的操作.Form2.resources
+d:\documents\visual studio 2010\Projects\窗体传值\根据窗体2的操作决定窗体1 的操作\obj\x86\Debug\根据窗体2的操作决定窗体1_的操作.Properties.Resources.resources
+d:\documents\visual studio 2010\Projects\窗体传值\根据窗体2的操作决定窗体1 的操作\obj\x86\Debug\根据窗体2的操作决定窗体1 的操作.csproj.GenerateResource.Cache
+d:\documents\visual studio 2010\Projects\窗体传值\根据窗体2的操作决定窗体1 的操作\obj\x86\Debug\根据窗体2的操作决定窗体1 的操作.exe
+d:\documents\visual studio 2010\Projects\窗体传值\根据窗体2的操作决定窗体1 的操作\obj\x86\Debug\根据窗体2的操作决定窗体1 的操作.pdb
