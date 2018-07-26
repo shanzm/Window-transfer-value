@@ -25,9 +25,9 @@ namespace 委托实现窗体传值
             frm2.Show();
         }
 
-        void ShowMsg(string str)
+        public void ShowMsg(string str)
         {
-           txtFrm1 .Text  = str;
+            txtFrm1.Text = str;
         }
     }
 }

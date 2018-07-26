@@ -38,7 +38,7 @@
             this.btnFrm1.Name = "btnFrm1";
             this.btnFrm1.Size = new System.Drawing.Size(75, 23);
             this.btnFrm1.TabIndex = 0;
-            this.btnFrm1.Text = "button1";
+            this.btnFrm1.Text = "弹出Form2";
             this.btnFrm1.UseVisualStyleBackColor = true;
             this.btnFrm1.Click += new System.EventHandler(this.button1_Click);
             // 
